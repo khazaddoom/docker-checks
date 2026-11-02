@@ -1,3 +1,3 @@
-FROM eclipse-temurin:21.0.13_9-jre-noble
+FROM eclipse-temurin:17-jre-jammy
 
 CMD echo Hello Ganesh!
