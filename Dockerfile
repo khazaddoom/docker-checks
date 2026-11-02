@@ -1,0 +1,1 @@
+eclipse-temurin:21-jre-noble
